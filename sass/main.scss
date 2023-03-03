@@ -7,7 +7,7 @@ body{
     margin: 2em;
     max-width: 300px;
     padding: 2em;
-    box-shadow: 0 20px 30px -20px rgb(0, 0, 0, .4);
+    box-shadow: 0 20px 30px -20px rgba(0, 0, 0, 0.4);
 }
 img{
     width: 100%;
@@ -17,7 +17,7 @@ img{
     margin: 2em;
     max-width: 300px;
     padding: 2em;
-    box-shadow: 0 20px 30px -20px rgb(0, 0, 0, .4);
+    box-shadow: 0 20px 30px -20px rgba(0, 0, 0, 0.4);
 }
 
 /* GLOBAL & SHARED CSS */
@@ -29,7 +29,7 @@ $color-primary-dark: #332f2f;
     margin: 2em;
     max-width: 300px;
     padding: 2em;
-    box-shadow: 0 20px 30px -20px rgb(0, 0, 0, .4);
+    box-shadow: 0 20px 30px -20px rgba(0, 0, 0, 0.4);
 }
 .card--light{
     background-color: rgba($color-primary-light, 0.8);
