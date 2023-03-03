@@ -11,5 +11,8 @@
     "Allanigue"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
 }
